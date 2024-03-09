@@ -1,5 +1,3 @@
-_link to [car data.csv](https://github.com/marsianjohncarter/StackOverflow--Sklearn_ValueError)_
-
 
 
 My code:
